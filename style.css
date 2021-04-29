@@ -1,0 +1,98 @@
+h1, h2, h3, h4, nav ul li {
+font-family: 'archivo narrow', sans-serif;
+}
+p {
+font-family: Merriweather;
+}
+h1 {
+font-weight: 800;
+}
+header {
+background: grey;
+position: fixed;
+top: 0px;
+left: 0px;
+width: 100%;
+}
+li {
+}
+nav ul {
+display: flex;
+}
+nav ul li {
+padding: 5px;
+list-style: none;
+/* color: red !important; */
+}
+nav a {
+color: white;
+font-weight: bold;
+text-decoration: none;
+}
+.main-menu {
+position: absolute;
+top: 5px;
+right: 10px;
+}
+header {
+height: 70px;
+}
+h1, h2, h3, h4, nav ul li {
+font-family: 'archivo narrow', sans-serif;
+}
+p {
+font-family: Merriweather;
+}
+h1 {
+font-weight: 800;
+}
+header {
+background: none;
+position: fixed;
+top: 0px;
+left: 0px;
+width: 100%;
+}
+li {
+}
+nav ul {
+display: flex;
+}
+nav ul li {
+padding: 5px;
+list-style: none;
+/* color: red !important; */
+}
+nav a {
+color: white;
+font-weight: bold;
+text-decoration: none;
+}
+.main-menu {
+position: absolute;
+top: 5px;
+right: 10px;
+}
+header {
+height: 70px;
+}
+html {
+    background: darkred;
+    color: white;
+}
+.main-nav{
+  position: absolute;
+  padding-left: 400px;
+  padding-bottom: 5px;
+}
+.logo {
+top: 10px;
+left: 1200px;
+position:absolute;
+}
+
+.main-col{
+  display:grid;
+  grid-column: 1fr 1fr 1fr 1fr;
+  grid-column-gap: 20px;
+}

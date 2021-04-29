@@ -1,0 +1,22 @@
+a {
+text-decoration: none;
+color: #383838;
+}
+.bold-name {
+color: #03A9F4;
+font-weight: bolder;
+background-color: #ededed;
+padding: 5px;
+border-radius: 12px;
+}
+img.logo {
+position: absolute;
+top: 10px;
+right: 10px;
+border-radius: 20px;
+box-shadow: 1px 1px 4px grey;
+padding: 4px;
+}
+html {
+    background: blueviolet;
+}
